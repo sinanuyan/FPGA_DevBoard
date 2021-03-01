@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for iCEstick_extension
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -41,6 +41,23 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=sch\01 - Peripheral.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TCINRTSS
+
+[Document2]
+DocumentPath=pcb\iCEstick_extension.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -54,7 +71,44 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TCINRTSS
+DocumentUniqueId=OHIAIYSO
+
+[Document3]
+DocumentPath=iCEstick_extension.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for iCEstick_extension\Design Rule Check - iCEstick_extension.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ProjectOutput\iCEstick_extension_ProductionData\Component Check\iCEstick_extension.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ProjectOutput\ProjectNumberMiromico_iCEstick_extension_[No Variations]_ProductionData_VProjectRevision\Component Check\iCEstick_extension.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ProjectOutput\iCEstick_extension_ProductionData\ASCII PCBDoc\iCEstick_extension.PcbDoc
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ProjectOutput\ProjectNumberMiromico_iCEstick_extension_[No Variations]_ProductionData_VProjectRevision\ASCII PCBDoc\iCEstick_extension.PcbDoc
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -65,6 +119,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for iCEstick_extension
 
 [OutputGroup1]
 Name=Netlist Outputs

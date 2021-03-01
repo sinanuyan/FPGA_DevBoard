@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 00:10:39 On 02.03.2021
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [iCEstick_extension.PcbDoc]
+   Generated File[ProjectNumberMiromico_iCEstick_extension_STEP_VProjectRevision.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:10:43 On 02.03.2021
