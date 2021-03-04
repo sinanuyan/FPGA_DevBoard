@@ -1,3 +1,7 @@
-Record=TopLevelDocument|FileName=01 - Overview.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=01 - Overview.SchDoc|FileName=98 - MECH.SchDoc|SheetNumber=98
-Record=NoMainPathDocument|SourceDocument=01 - Overview.SchDoc|FileName=99 - INFO_DEBUG.SchDoc|SheetNumber=99
+Record=TopLevelDocument|FileName=01 - Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=01 - Overview.SchDoc|Designator=Lattice FPGA|SchDesignator=Lattice FPGA|FileName=03 - Lattice_FPGA.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=03 - Lattice_FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=01 - Overview.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=02 - PowerSupply.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=02 - PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=01 - Overview.SchDoc|Designator=USB Flash|SchDesignator=USB Flash|FileName=04 - USB_Flash.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=04 - USB_Flash.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=01 - Overview.SchDoc|FileName=01 - Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01 - Overview.SchDoc|FileName=98 - MECH.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01 - Overview.SchDoc|FileName=99 - INFO_DEBUG.SchDoc|SheetNumber=3
