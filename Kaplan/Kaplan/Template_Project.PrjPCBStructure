@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=0A - Blockschema.SchDoc
+Record=SheetSymbol|SourceDocument=01 - Overview.SchDoc|Designator=Sheet1|SchDesignator=Sheet1|FileName= |SymbolType=Normal|RawFileName= |DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=01 - Overview.SchDoc|Designator=Sheet2|SchDesignator=Sheet2|FileName= |SymbolType=Normal|RawFileName= |DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=01 - Overview.SchDoc|Designator=Sheetx|SchDesignator=Sheetx|FileName= |SymbolType=Normal|RawFileName= |DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
