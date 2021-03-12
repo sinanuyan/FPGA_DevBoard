@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for iCEstick_extension
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -99,15 +99,7 @@ DocumentPath=ProjectOutput\iCEstick_extension_ProductionData\Component Check\iCE
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=ProjectOutput\ProjectNumberMiromico_iCEstick_extension_[No Variations]_ProductionData_VProjectRevision\Component Check\iCEstick_extension.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=ProjectOutput\iCEstick_extension_ProductionData\ASCII PCBDoc\iCEstick_extension.PcbDoc
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=ProjectOutput\ProjectNumberMiromico_iCEstick_extension_[No Variations]_ProductionData_VProjectRevision\ASCII PCBDoc\iCEstick_extension.PcbDoc
 DItemRevisionGUID=
 
 [Configuration1]
@@ -121,7 +113,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for iCEstick_extension
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
